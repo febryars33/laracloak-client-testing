@@ -4597,12 +4597,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/febryars33/laracloak.git",
-                "reference": "4c0ce86ffaf5b474f01a0de4abfc7efb674a0202"
+                "reference": "31c97af2d84d0faaba99fcad7de60fe918e071d8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/febryars33/laracloak/zipball/4c0ce86ffaf5b474f01a0de4abfc7efb674a0202",
-                "reference": "4c0ce86ffaf5b474f01a0de4abfc7efb674a0202",
+                "url": "https://api.github.com/repos/febryars33/laracloak/zipball/31c97af2d84d0faaba99fcad7de60fe918e071d8",
+                "reference": "31c97af2d84d0faaba99fcad7de60fe918e071d8",
                 "shasum": ""
             },
             "require": {
@@ -4669,7 +4669,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-18T15:40:55+00:00"
+            "time": "2026-11-18T16:44:51+00:00"
         },
         {
             "name": "spatie/laravel-package-tools",
